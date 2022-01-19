@@ -1,6 +1,6 @@
 # todo-project
 ## wireframe images
 
-![Homepage](WirwframeImages/HomePageWireFrame.JPG)
+![Homepage](/WirwframeImages/HomePageWireFrame.JPG)
 
-![AboutPage](WirwframeImages/AboutPageWireFrame.JPG)
+![AboutPage](/WirwframeImages/AboutPageWireFrame.JPG)
